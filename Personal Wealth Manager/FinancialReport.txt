@@ -1,0 +1,20 @@
+Financial Statement
+
+Income Statement
+=================
+Income Description		Amount
+
+Expenses
+=================
+Expense Description		Amount
+
+Balance Sheet
+=================
+Assets
+Asset Name		Value		Monthly Income		Monthly Expense
+Property		100000		2000		200
+
+Liabilities
+Liability Name		Value		Monthly Income		Monthly Expense
+tet		12003		22210		100000
+Propery		479200		990		2000
